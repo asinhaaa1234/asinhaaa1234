@@ -6,19 +6,18 @@
     <title>Document</title>
 </head>
 <body>
-    <title>vantagens da academia</title>
-    <p1> a academia tem diversas <italico>vantagens</italico>, aqui mostramos 5 delas : a melhora da autoestima, um melhor desenvolvimento fisico, ajuda com problemas cardiovasculares, reduz o risco de diabetes e fortalecimento osseo </p1>
-    <p2>muitas pessoas levam a vida na academia como uma <strong>valvula de escape ou passatempo</strong>, voce pode tentar tambem! </p2>
-    <title>exercicios e execuçao</title>
-    <p1>para cada musculo do nosso corpo existem diversos exercicios para desenvolve-los, entre os mais conhecidos estao</p1>
-    <p2>quadriceps: cadeira flexora, cadeira extensora, bulgaro, agachamento sumo e etc
+     <h1>vantagens da academia</h1>
+    <p> a academia tem diversas <em>vantagens</em>, aqui mostramos 5 delas : a melhora da autoestima, um melhor desenvolvimento fisico, ajuda com problemas cardiovasculares, reduz o risco de diabetes e fortalecimento osseo </p1>
+    <p>muitas pessoas levam a vida na academia como uma <strong>valvula de escape ou passatempo</strong>, voce pode tentar tambem! </p2>
+    <h2>exercicios e execuçao</h2>
+    <p>para cada musculo do nosso corpo existem diversos exercicios para desenvolve-los, entre os mais conhecidos estao</p1>
+    <p>quadriceps: cadeira flexora, cadeira extensora, bulgaro, agachamento sumo e etc
         braços: supino inclinado, desenvolvimento, levantamento lateral, triceps corda, rosca e etc
         gluteo e posterior: elevaçao pelvica, mesa flexora, stiff, agachamento smith, cadeira abdutora e etc
-    </p2>
-    <title>fisiculturistas</title>
-    <p1>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p1>
-    <p2>entre alguns dos fisiculturistas mais conhecidos:
-        Ramon Dino:https://www.torcedores.com/noticias/2023/03/ramon-dino-faturou-bolada-com-o-titulo-do-arnold-classic-ohio-veja-o-valor-da-premiacao
-        Arnold Schwarzenegger
-        Ronnie Coleman e entre outros fisiculturistas</p2>
-</html>
+    </p>
+     <h3>fisiculturismo</h3>
+    <p>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p1>
+    <p>entre alguns dos fisiculturistas mais conhecidos:
+        Ramon dino <img src="image.jpg" alt="">
+        Arnold Schwarzenegger,mr olympia entre outros praticantes do esporte
+  </html>
