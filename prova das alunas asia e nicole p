@@ -6,26 +6,34 @@
     <title>Document</title>
 </head>
 <body>
-     <h1>vantagens da academia</h1>
-    <p> a academia tem diversas <em>vantagens</em>, aqui mostramos 5 delas : a melhora da autoestima, um melhor desenvolvimento fisico, ajuda com problemas cardiovasculares, reduz o risco de diabetes e fortalecimento osseo </p1>
-    <p>muitas pessoas levam a vida na academia como uma <strong>valvula de escape ou passatempo</strong>, voce pode tentar tambem! </p>
-    <h2>exercicios e execuçao</h2>
-    <p>para cada musculo do nosso corpo existem diversos exercicios para desenvolve-los, entre os mais conhecidos estao</p>
-    <p>quadriceps: cadeira flexora, cadeira extensora, bulgaro, agachamento sumo e etc
-        braços: supino inclinado, desenvolvimento, levantamento lateral, triceps corda, rosca e etc
-        gluteo e posterior: elevaçao pelvica, mesa flexora, stiff, agachamento smith, cadeira abdutora e etc
-    </p>
-     <h3>fisiculturismo</h3>
-    <p>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p>
-    <p>entre alguns dos fisiculturistas mais conhecidos:
-        Ramon dino</p> 
-       <img class="forte" src="ramon dino.jpeg">
-     <p> Arnold Schwarzenegger,mr olympia entre outros praticantes do esporte</p>
-     <img class="lacoste" src="fisiculturismo.webp">
-        <ul><h4>maiores fisiculturistas conhecidos</h4>
-        <li>dorian yates</li>
-        <li>phil heath</li>
-        <li>lee haney</li>
-        <li>ronnie coleman</li>
-    </ul>
-  </html>
+    <h1>vantagens da academia</h1>
+   <p> a academia tem diversas <em>vantagens</em>, aqui mostramos 5 delas : a melhora da autoestima, um melhor desenvolvimento fisico, ajuda com problemas cardiovasculares, reduz o risco de diabetes e fortalecimento osseo </p1>
+   <p>muitas pessoas levam a vida na academia como uma <strong>valvula de escape ou passatempo</strong>, voce pode tentar tambem! </p>
+   <h2>exercicios e execuçao</h2>
+   <p>para cada musculo do nosso corpo existem diversos exercicios para desenvolve-los, entre os mais conhecidos estao</p>
+   <p>quadriceps: cadeira flexora, cadeira extensora, bulgaro, agachamento sumo e etc
+       braços: supino inclinado, desenvolvimento, levantamento lateral, triceps corda, rosca e etc
+       gluteo e posterior: elevaçao pelvica, mesa flexora, stiff, agachamento smith, cadeira abdutora e etc
+   </p>
+    <h3>fisiculturismo</h3>
+   <p>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p1>
+   <p>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p>
+   <p>entre alguns dos fisiculturistas mais conhecidos:
+       Ramon dino <img src="image.jpg" alt="">
+       Arnold Schwarzenegger,mr olympia entre outros praticantes do esporte
+       Ramon dino</p> 
+      <img class="forte" src="ramon dino.jpeg">
+    <p> Arnold Schwarzenegger,mr olympia entre outros praticantes do esporte</p>
+    <img class="lacoste" src="fisiculturismo.webp">
+       <ul><h4>maiores fisiculturistas conhecidos</h4>
+       <li>dorian yates</li>
+       <li>phil heath</li>
+       <li>ramon dino</li>
+       </ul>
+       <header>
+        <nav>
+            <a href="index.html"> home </a>
+    <a href="https://www.gsuplementos.com.br/whey-protein/?gclid=CjwKCAjwsKqoBhBPEiwALrrqiMIefLNMcMw517bOBLZ7BEC1VedI-_hYjF9zOaxMFU8x2Ze0E5s1yxoCWRgQAvD_BwE">produtos e suplementos </a>
+    <a href="https://www.youtube.com/watch?v=_g1o-DK0HZc">mr olympia</a>
+</nav>
+</header>
