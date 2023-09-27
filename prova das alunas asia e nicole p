@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="asia.css">
 </head>
 <body>
     <h1>vantagens da academia</h1>
@@ -37,4 +38,4 @@
     <a href="https://www.gsuplementos.com.br/whey-protein/?gclid=CjwKCAjwsKqoBhBPEiwALrrqiMIefLNMcMw517bOBLZ7BEC1VedI-_hYjF9zOaxMFU8x2Ze0E5s1yxoCWRgQAvD_BwE">produtos e suplementos </a>
     <a href="https://www.youtube.com/watch?v=_g1o-DK0HZc">mr olympia</a>
 </nav>
-</header>
+</header>''
