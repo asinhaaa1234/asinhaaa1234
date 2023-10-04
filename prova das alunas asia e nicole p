@@ -15,9 +15,18 @@
    <p>quadriceps: cadeira flexora, cadeira extensora, bulgaro, agachamento sumo e etc
        braços: supino inclinado, desenvolvimento, levantamento lateral, triceps corda, rosca e etc
        gluteo e posterior: elevaçao pelvica, mesa flexora, stiff, agachamento smith, cadeira abdutora e etc
+
+       <p>biceps: rosca, rosca martelo,biceps com pegada ampla,biceps com corda no cross,rosca halter no banco inclinado e etc</p>
+
+       <p>abdomen: abdominal tradicional, elevacao de pernas, abdominal em v, prancha, prancha lateral, elevaçao de quadril e etc </p>
+
+       <p>gluteo: agachamento,afundo,elevacao pelvica, mesa flexora,extensora, elevação de quadril coice, leg press 45 graus e etc </p>
+
+
+
+
    </p>
     <h3>fisiculturismo</h3>
-   <p>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p1>
    <p>o fisiculturismo e uma modalidade competitiva focada na musculaçao e hipertrofia muscular, normalmente voltado para a estetica e saude </p>
    <p>entre alguns dos fisiculturistas mais conhecidos:
        Ramon dino <img src="image.jpg" alt="">
@@ -34,8 +43,8 @@
        </ul>
        <header>
         <nav>
-            <a href="index.html"> home </a>
-    <a href="https://www.gsuplementos.com.br/whey-protein/?gclid=CjwKCAjwsKqoBhBPEiwALrrqiMIefLNMcMw517bOBLZ7BEC1VedI-_hYjF9zOaxMFU8x2Ze0E5s1yxoCWRgQAvD_BwE">produtos e suplementos </a>
-    <a href="https://www.youtube.com/watch?v=_g1o-DK0HZc">mr olympia</a>
+            <p><a href="index.html"> home </a></p>
+   <p><a href="https://www.gsuplementos.com.br/whey-protein/?gclid=CjwKCAjwsKqoBhBPEiwALrrqiMIefLNMcMw517bOBLZ7BEC1VedI-_hYjF9zOaxMFU8x2Ze0E5s1yxoCWRgQAvD_BwE">produtos e suplementos </a></p>
+    <p><a href="https://www.youtube.com/watch?v=_g1o-DK0HZc">mr olympia</a></p>
 </nav>
 </header>''
