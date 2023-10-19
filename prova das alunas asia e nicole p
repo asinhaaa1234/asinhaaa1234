@@ -37,9 +37,9 @@
     <p> Arnold Schwarzenegger,mr olympia entre outros praticantes do esporte</p>
     <img class="lacoste" src="fisiculturismo.webp">
        <ul><h4>maiores fisiculturistas conhecidos</h4>
-       <li>dorian yates</li>
-       <li>phil heath</li>
-       <li>ramon dino</li>
+       <li><div class="lista"></div>dorian yates</li>
+       <li><div class="lista"></div>phil heath</li>
+       <li><div class="lista"></div>ramon dino</li>
        </ul>
        <header>
         <nav>
@@ -48,3 +48,4 @@
     <p><a href="https://www.youtube.com/watch?v=_g1o-DK0HZc">mr olympia</a></p>
 </nav>
 </header>''
+       
