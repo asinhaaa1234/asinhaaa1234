@@ -1,4 +1,28 @@
-h1{text-align: center;background-color: darkmagenta;}
-p{text-align: center;background-color: darkmagenta;}
-ul{text-align: center;background-color: cadetblue;}
-li{text-align: center;background-color: darkgray;}
+h1
+{text-align: center;
+    background-color: darkmagenta;
+}
+p
+{text-align: center;
+    background-color: darkmagenta;
+}
+ul
+{text-align: center;
+    background-color: cadetblue;
+}
+li
+{text-align: center;
+    background-color: darkgray;
+}
+h1
+{color: crimson;
+}
+h2
+{color: crimson;
+}
+nav a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+ramondino.jpeg { width: 50%;
+}
